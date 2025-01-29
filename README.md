@@ -60,7 +60,7 @@ Key Insights
 
 
 
-How to Use
+How it work
 
 1. Data Preprocessing:
 
@@ -72,7 +72,7 @@ Clean missing values using the provided code and replace or drop irrelevant rows
 
 2. Visualizations:
 
-Use the provided Plotly code to create interactive visualizations of theft trends, regional analyses, and correlations.
+Use the provided Plotly code to create interactive visualizations of theft trends, regional analyses.
 
 
 
@@ -82,7 +82,7 @@ Files
 
 Cargo_Theft_Analysis.ipynb: Jupyter Notebook with detailed analysis and visualizations.
 
-Dataset: The cargo theft dataset used in the analysis (e.g., cargo_theft_2013_2023.csv).
+Dataset: The cargo theft dataset used in the analysis (cargo_theft_2013_2023.csv).
 
 
 Conclusion
